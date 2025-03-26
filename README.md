@@ -17,3 +17,6 @@ The training mode in the SwapITLab Chatbot provides a user-friendly interface fo
 
 
 ![image](https://github.com/user-attachments/assets/ae05e0c2-aa27-46cc-b6f5-65a5ff3ad307)
+
+
+Note: This is a demo project.
